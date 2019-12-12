@@ -1,2 +1,2 @@
-FROM shrivastavaprateek/webapp
+FROM shrivastavaprateek/websites
 ADD . /var/www/html
